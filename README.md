@@ -86,6 +86,12 @@ Compares the scores of two participants across three categories and calculates t
 * Time: O(1)
 * Space: O(1)
 
+## badges
+<img width="1280" height="829" alt="badge" src="https://github.com/user-attachments/assets/d0adb88c-a382-40d2-8df2-a726060c49ac" />
+
+## submissions
+<img width="1280" height="829" alt="submissions" src="https://github.com/user-attachments/assets/d2179636-ebc6-4406-85d6-92c686d797e4" />
+
 
 ## Technologies Used
 
