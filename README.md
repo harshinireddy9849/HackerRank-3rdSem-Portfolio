@@ -86,35 +86,6 @@ Compares the scores of two participants across three categories and calculates t
 * Time: O(1)
 * Space: O(1)
 
-## HackerRank Accepted Submission Screenshots
-
-The following section contains screenshots showing the accepted HackerRank submissions.
-
-## Diagonal Difference
-
-*Add accepted submission screenshot here.*
-
-### Dynamic Array
-
-*Add accepted submission screenshot here.*
-
-### Time Conversion
-
-*Add accepted submission screenshot here.*
-
-### Sparse Arrays
-
-*Add accepted submission screenshot here.*
-
-### Compare the Triplets
-
-*Add accepted submission screenshot here.*
-
-## HackerRank Badge
-
-### 3-Star Badge
-
-*Add screenshot of the earned 3-Star HackerRank badge here.*
 
 ## Technologies Used
 
